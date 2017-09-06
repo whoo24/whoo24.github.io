@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teches on wychoe&#39;s Technical blog</title>
+    <link>https://whoo24.github.io/tech/</link>
+    <description>Recent content in Teches on wychoe&#39;s Technical blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Wed, 06 Sep 2017 10:48:10 +0900</lastBuildDate>
+    
+	<atom:link href="https://whoo24.github.io/tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Start Windbg With Js</title>
+      <link>https://whoo24.github.io/tech/start-windbg-with-js/</link>
+      <pubDate>Wed, 06 Sep 2017 10:48:10 +0900</pubDate>
+      
+      <guid>https://whoo24.github.io/tech/start-windbg-with-js/</guid>
+      <description>Start Windbg With Js</description>
+    </item>
+    
+  </channel>
+</rss>
